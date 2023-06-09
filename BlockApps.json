@@ -1,0 +1,16 @@
+{
+
+"apps":[
+
+    "app.greyshirts.sslcapture",
+    "jp.co.taosoftware.android.packetcapture",
+    "com.guoshi.httpcanary",
+    "com.minhui.networkcapture.pro",
+    "com.minhui.wifianalyzer",
+    "com.evbadroid.wicapdemo",
+    "com.evbadroid.proxymon",
+    "com.packagesniffer.frtparlak",
+    "com.emanuelef.remote_capture"
+
+  ]
+}
