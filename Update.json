@@ -1,12 +1,10 @@
 {
-  "latestVersion": "2.0",
-  "latestVersionCode": "52",
-  "url": "https://bitbucket.org/bitbucketellosvki/ellovskinu/downloads/Flixeon_v2.0.apk",
+  "latestVersion": "1.2",
+  "latestVersionCode": "12",
+  "url": "https://go.flixeon.me/latest",
   "releaseNotes": [
     "[Fix] Bug fixes",
-    "[New] Trakt support",
-    "[Update] Major UI improvements",
-    "[Update] Added new sources",
-    "[Note] The new version will be installed as a separate app"
+    "[Update] Added opensubtitles for TV shows",
+    "[Update] Added many new source links"
   ]
 }
